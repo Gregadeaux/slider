@@ -24,6 +24,7 @@
   ],
   "license": "MIT",
   "main": "./lib/index.js",
+  "types": "./src/types/index.d.ts",
   "module": "./es/index",
   "entry": {
     "rc-slider": [

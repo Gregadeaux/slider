@@ -6,5 +6,4 @@ import createSliderWithTooltip from './createSliderWithTooltip';
 Slider.Range = Range;
 Slider.Handle = Handle;
 Slider.createSliderWithTooltip = createSliderWithTooltip;
-export default Slider;
-export { Range, Handle, createSliderWithTooltip };
+export { Slider, Range, Handle, createSliderWithTooltip };
